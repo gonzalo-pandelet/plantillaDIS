@@ -9,7 +9,7 @@ El objetivo de la aplicación, según las especificaciones del enunciado del exa
 
 
 
-Versión final de la aplicación:
+Versión final de la aplicación: 4.5.3
 
 ________________________________________
 
